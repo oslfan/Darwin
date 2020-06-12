@@ -234,10 +234,9 @@
 		<module>darwin-gateway</module>
 		<module>darwin-ops</module>
 		<module>darwin-service</module>
-		<module>darwin-service</module>
 		<module>darwin-service-api</module>
-		<module>darwin-common-rocketmq</module>
 		<module>darwin-config</module>
+		<module>darwin-dock</module>
 	</modules>
 
 
