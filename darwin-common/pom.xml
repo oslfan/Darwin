@@ -20,6 +20,7 @@
         <module>darwin-common-kafka</module>
         <module>darwin-common-core</module>
         <module>darwin-common-utils</module>
+        <module>darwin-common-rocketmq</module>
     </modules>
 
 

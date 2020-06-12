@@ -236,6 +236,7 @@
 		<module>darwin-service</module>
 		<module>darwin-service</module>
 		<module>darwin-service-api</module>
+		<module>darwin-common-rocketmq</module>
 	</modules>
 
 
