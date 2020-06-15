@@ -237,6 +237,7 @@
 		<module>darwin-service-api</module>
 		<module>darwin-config</module>
 		<module>darwin-dock</module>
+		<module>darwin-sak</module>
 	</modules>
 
 
