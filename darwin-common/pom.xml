@@ -13,14 +13,9 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>darwin-common-activemq</module>
         <module>darwin-common-log</module>
         <module>darwin-common-redis</module>
-        <module>darwin-common-activemq</module>
-        <module>darwin-common-kafka</module>
-        <module>darwin-common-core</module>
         <module>darwin-common-utils</module>
-        <module>darwin-common-rocketmq</module>
     </modules>
 
 
