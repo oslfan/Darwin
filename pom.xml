@@ -229,15 +229,8 @@
 
 	<modules>
 
-		<module>darwin-auth</module>
-		<module>darwin-common</module>
 		<module>darwin-gateway</module>
-		<module>darwin-ops</module>
-		<module>darwin-service</module>
-		<module>darwin-service-api</module>
 		<module>darwin-config</module>
-		<module>darwin-dock</module>
-		<module>darwin-sak</module>
 	</modules>
 
 
